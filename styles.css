@@ -1,0 +1,13 @@
+body {}
+
+.ui.main.container {
+  margin-top: 50px;
+}
+
+#header {
+  margin-bottom: 50px;
+}
+
+#job-desc {
+  padding-bottom: 50px;
+}
